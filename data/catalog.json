@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "title": "Foundations of SQL Fundamentals",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 3.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 2,
+    "title": "Essentials of JavaScript Essentials",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.1,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 3,
+    "title": "Practical Guide to Authentication",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 190,
+    "rating": 3.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 4,
+    "title": "Deep Dive into Prototyping",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 3.6,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 5,
+    "title": "Essentials of Statistics",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 120,
+    "rating": 3.6,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Database Systems",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 140,
+    "rating": 3.2,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 7,
+    "title": "Deep Dive into Privacy Engineering",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 3.2,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 8,
+    "title": "Foundations of Interface Design",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 4.2,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 9,
+    "title": "Introduction to Business Intelligence",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 4.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 10,
+    "title": "Introduction to JavaScript Essentials",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 140,
+    "rating": 3.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 11,
+    "title": "Workshop: Threat Modeling",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 4.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 12,
+    "title": "Complete Course in Design Systems",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 3.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 13,
+    "title": "Workshop: Business Intelligence",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 14,
+    "title": "Foundations of Database Systems",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 3.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 15,
+    "title": "Deep Dive into Cloud Security",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 140,
+    "rating": 4.8,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 16,
+    "title": "Hands-on Design Systems",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 4.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 17,
+    "title": "Essentials of Python Analysis",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 200,
+    "rating": 3.8,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 18,
+    "title": "Deep Dive into Backend Engineering",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 4.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 19,
+    "title": "Hands-on Threat Modeling",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 3.8,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 20,
+    "title": "Deep Dive into Prototyping",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 3.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 21,
+    "title": "Introduction to Data Visualization",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 4.8,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 22,
+    "title": "Foundations of Database Systems",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 3.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 23,
+    "title": "Hands-on Privacy Engineering",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 4.8,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 24,
+    "title": "Workshop: Accessibility",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 4.1,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 25,
+    "title": "Workshop: Data Visualization",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 3.0,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 26,
+    "title": "Practical Guide to Python Programming",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 4.8,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 27,
+    "title": "Deep Dive into Secure Coding",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 5.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 28,
+    "title": "Deep Dive into Design Systems",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 3.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 29,
+    "title": "Complete Course in Data Cleaning",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 240,
+    "rating": 3.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 30,
+    "title": "Deep Dive into Git Workflows",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 31,
+    "title": "Complete Course in Cloud Security",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 3.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 32,
+    "title": "Introduction to UX Research",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 4.7,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 33,
+    "title": "Deep Dive into Business Intelligence",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 4.1,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 34,
+    "title": "Deep Dive into Git Workflows",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 3.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 35,
+    "title": "Essentials of Cryptography Basics",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.9,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 36,
+    "title": "Essentials of Interface Design",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 120,
+    "rating": 4.6,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 37,
+    "title": "Complete Course in Business Intelligence",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 3.9,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 38,
+    "title": "Deep Dive into Backend Engineering",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 4.7,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 39,
+    "title": "Introduction to Incident Response",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 4.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 40,
+    "title": "Complete Course in UX Research",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 3.8,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 41,
+    "title": "Practical Guide to Business Intelligence",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 70,
+    "rating": 3.8,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 42,
+    "title": "Foundations of Python Programming",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 4.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 43,
+    "title": "Complete Course in Incident Response",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 3.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 44,
+    "title": "Workshop: UX Research",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.1,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 45,
+    "title": "Introduction to Statistics",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 3.1,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 46,
+    "title": "Introduction to Frontend Development",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 3.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 47,
+    "title": "Introduction to Network Security",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 4.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 48,
+    "title": "Complete Course in Visual Design",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 4.4,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 49,
+    "title": "Hands-on Python Analysis",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 4.3,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 50,
+    "title": "Practical Guide to Database Systems",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 4.2,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 51,
+    "title": "Complete Course in Secure Coding",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 180,
+    "rating": 3.5,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 52,
+    "title": "Workshop: Interface Design",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 3.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 53,
+    "title": "Practical Guide to Python Analysis",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 4.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 54,
+    "title": "Foundations of JavaScript Essentials",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 4.8,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 55,
+    "title": "Foundations of Threat Modeling",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 210,
+    "rating": 3.4,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 56,
+    "title": "Foundations of Accessibility",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 4.0,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 57,
+    "title": "Essentials of SQL Fundamentals",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.1,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 58,
+    "title": "Foundations of Backend Engineering",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 4.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 59,
+    "title": "Practical Guide to Cryptography Basics",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.2,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 60,
+    "title": "Hands-on UX Research",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 61,
+    "title": "Workshop: Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 80,
+    "rating": 4.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 62,
+    "title": "Essentials of Database Systems",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 4.5,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 63,
+    "title": "Essentials of Threat Modeling",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 3.4,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 64,
+    "title": "Complete Course in Prototyping",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 65,
+    "title": "Deep Dive into Data Cleaning",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 3.4,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 66,
+    "title": "Complete Course in Database Systems",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 3.0,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 67,
+    "title": "Foundations of Cryptography Basics",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 4.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 68,
+    "title": "Essentials of Visual Design",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 5.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 69,
+    "title": "Introduction to Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 3.4,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 70,
+    "title": "Essentials of API Design",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 130,
+    "rating": 4.5,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 71,
+    "title": "Introduction to Cryptography Basics",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 4.8,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 72,
+    "title": "Essentials of Wireframing",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 4.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 73,
+    "title": "Essentials of Business Intelligence",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 4.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 74,
+    "title": "Introduction to Database Systems",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.0,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 75,
+    "title": "Foundations of Cloud Security",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 3.3,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 76,
+    "title": "Hands-on Prototyping",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 4.1,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 77,
+    "title": "Foundations of Data Visualization",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 3.9,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 78,
+    "title": "Deep Dive into Database Systems",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 79,
+    "title": "Hands-on Incident Response",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 3.2,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 80,
+    "title": "Complete Course in Visual Design",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 230,
+    "rating": 3.6,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 81,
+    "title": "Practical Guide to Statistics",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 5.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 82,
+    "title": "Essentials of JavaScript Essentials",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 4.2,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 83,
+    "title": "Complete Course in Incident Response",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 60,
+    "rating": 4.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 84,
+    "title": "Complete Course in Interface Design",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 70,
+    "rating": 4.6,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 85,
+    "title": "Complete Course in Machine Learning Basics",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 3.9,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 86,
+    "title": "Essentials of Database Systems",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 3.9,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 87,
+    "title": "Foundations of Incident Response",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 4.7,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 88,
+    "title": "Complete Course in Typography",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 89,
+    "title": "Workshop: Business Intelligence",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 4.8,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 90,
+    "title": "Complete Course in Backend Engineering",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 140,
+    "rating": 4.4,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 91,
+    "title": "Essentials of Secure Coding",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 4.1,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 92,
+    "title": "Essentials of UX Research",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 140,
+    "rating": 4.8,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 93,
+    "title": "Essentials of Data Visualization",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 3.0,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 94,
+    "title": "Essentials of Python Programming",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 4.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 95,
+    "title": "Complete Course in Authentication",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 100,
+    "rating": 3.9,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 96,
+    "title": "Essentials of Prototyping",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 70,
+    "rating": 4.7,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 97,
+    "title": "Practical Guide to Data Visualization",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 4.3,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 98,
+    "title": "Practical Guide to Git Workflows",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 3.8,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 99,
+    "title": "Workshop: Incident Response",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 140,
+    "rating": 3.6,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 100,
+    "title": "Deep Dive into Wireframing",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 4.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 101,
+    "title": "Introduction to Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 220,
+    "rating": 3.1,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 102,
+    "title": "Practical Guide to Frontend Development",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 210,
+    "rating": 3.3,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 103,
+    "title": "Introduction to Incident Response",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 200,
+    "rating": 4.9,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 104,
+    "title": "Hands-on Wireframing",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 210,
+    "rating": 4.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 105,
+    "title": "Introduction to Statistics",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 3.1,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 106,
+    "title": "Complete Course in Web Development",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 4.2,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 107,
+    "title": "Foundations of Secure Coding",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 4.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 108,
+    "title": "Essentials of UX Research",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 3.7,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 109,
+    "title": "Essentials of Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.2,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 110,
+    "title": "Hands-on Git Workflows",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 3.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 111,
+    "title": "Deep Dive into Privacy Engineering",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 3.9,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 112,
+    "title": "Complete Course in Wireframing",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 3.6,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 113,
+    "title": "Essentials of Business Intelligence",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.1,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 114,
+    "title": "Complete Course in Backend Engineering",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 130,
+    "rating": 4.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 115,
+    "title": "Foundations of Privacy Engineering",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 190,
+    "rating": 3.0,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 116,
+    "title": "Essentials of Interface Design",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 4.1,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 117,
+    "title": "Deep Dive into Machine Learning Basics",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 4.6,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 118,
+    "title": "Essentials of Python Programming",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 240,
+    "rating": 3.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 119,
+    "title": "Workshop: Cloud Security",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 5.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 120,
+    "title": "Deep Dive into Visual Design",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 100,
+    "rating": 3.6,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 121,
+    "title": "Complete Course in SQL Fundamentals",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 120,
+    "rating": 3.2,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 122,
+    "title": "Complete Course in Backend Engineering",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.6,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 123,
+    "title": "Complete Course in Privacy Engineering",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 3.5,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 124,
+    "title": "Hands-on Wireframing",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 3.1,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 125,
+    "title": "Hands-on Python Analysis",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 4.7,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 126,
+    "title": "Foundations of JavaScript Essentials",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 4.0,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 127,
+    "title": "Foundations of Threat Modeling",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 128,
+    "title": "Introduction to Prototyping",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 4.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 129,
+    "title": "Foundations of Statistics",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 40,
+    "rating": 5.0,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 130,
+    "title": "Complete Course in Web Development",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 3.8,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 131,
+    "title": "Essentials of Privacy Engineering",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.1,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 132,
+    "title": "Complete Course in Interface Design",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 4.3,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 133,
+    "title": "Introduction to Business Intelligence",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 3.0,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 134,
+    "title": "Practical Guide to Git Workflows",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 3.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 135,
+    "title": "Complete Course in Incident Response",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 4.6,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 136,
+    "title": "Introduction to Accessibility",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 3.4,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 137,
+    "title": "Introduction to Python Analysis",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 3.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 138,
+    "title": "Introduction to Python Programming",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.4,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 139,
+    "title": "Deep Dive into Privacy Engineering",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 3.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 140,
+    "title": "Workshop: Prototyping",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 3.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 141,
+    "title": "Practical Guide to Business Intelligence",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 4.6,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 142,
+    "title": "Deep Dive into API Design",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 180,
+    "rating": 4.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 143,
+    "title": "Essentials of Threat Modeling",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 4.6,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 144,
+    "title": "Essentials of Typography",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.6,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 145,
+    "title": "Essentials of Statistics",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 240,
+    "rating": 4.0,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 146,
+    "title": "Introduction to API Design",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 147,
+    "title": "Practical Guide to Cryptography Basics",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 4.7,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 148,
+    "title": "Complete Course in Prototyping",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 180,
+    "rating": 3.7,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 149,
+    "title": "Complete Course in Machine Learning Basics",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 4.1,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 150,
+    "title": "Deep Dive into Git Workflows",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.1,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 151,
+    "title": "Hands-on Authentication",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.1,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 152,
+    "title": "Complete Course in Prototyping",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 3.9,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 153,
+    "title": "Foundations of Statistics",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 4.4,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 154,
+    "title": "Complete Course in Git Workflows",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.1,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 155,
+    "title": "Hands-on Authentication",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 3.6,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 156,
+    "title": "Foundations of Visual Design",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 20,
+    "rating": 3.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 157,
+    "title": "Deep Dive into Machine Learning Basics",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 4.0,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 158,
+    "title": "Workshop: Web Development",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 5.0,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 159,
+    "title": "Essentials of Cryptography Basics",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 3.6,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 160,
+    "title": "Hands-on Prototyping",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 170,
+    "rating": 4.9,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 161,
+    "title": "Deep Dive into Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 4.1,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 162,
+    "title": "Hands-on API Design",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 4.7,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 163,
+    "title": "Foundations of Secure Coding",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 4.2,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 164,
+    "title": "Essentials of Interface Design",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 4.3,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 165,
+    "title": "Introduction to Data Visualization",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 4.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 166,
+    "title": "Introduction to Frontend Development",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 5.0,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 167,
+    "title": "Foundations of Incident Response",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 3.1,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 168,
+    "title": "Workshop: Wireframing",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 169,
+    "title": "Hands-on Data Cleaning",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 3.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 170,
+    "title": "Complete Course in Web Development",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 4.8,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 171,
+    "title": "Foundations of Authentication",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.5,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 172,
+    "title": "Hands-on Typography",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 3.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 173,
+    "title": "Essentials of Python Analysis",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 3.5,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 174,
+    "title": "Deep Dive into Frontend Development",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 3.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 175,
+    "title": "Foundations of Cloud Security",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 3.6,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 176,
+    "title": "Practical Guide to Wireframing",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 210,
+    "rating": 4.5,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 177,
+    "title": "Workshop: Business Intelligence",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 4.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 178,
+    "title": "Hands-on Python Programming",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 3.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 179,
+    "title": "Practical Guide to Privacy Engineering",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 3.7,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 180,
+    "title": "Workshop: Interface Design",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.4,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 181,
+    "title": "Foundations of Dashboard Design",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 3.5,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 182,
+    "title": "Workshop: Python Programming",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.9,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 183,
+    "title": "Essentials of Threat Modeling",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 3.7,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 184,
+    "title": "Introduction to UX Research",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.7,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 185,
+    "title": "Workshop: Data Cleaning",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 4.3,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 186,
+    "title": "Workshop: API Design",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 3.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 187,
+    "title": "Foundations of Incident Response",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 3.8,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 188,
+    "title": "Foundations of UX Research",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.2,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 189,
+    "title": "Deep Dive into Statistics",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 130,
+    "rating": 4.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 190,
+    "title": "Hands-on Web Development",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 4.3,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 191,
+    "title": "Practical Guide to Cryptography Basics",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 240,
+    "rating": 3.7,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 192,
+    "title": "Workshop: Typography",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 5.0,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 193,
+    "title": "Essentials of Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 3.4,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 194,
+    "title": "Complete Course in Git Workflows",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 220,
+    "rating": 4.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 195,
+    "title": "Complete Course in Network Security",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 60,
+    "rating": 4.6,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 196,
+    "title": "Complete Course in Interface Design",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 200,
+    "rating": 3.4,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 197,
+    "title": "Practical Guide to Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 4.7,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 198,
+    "title": "Foundations of Backend Engineering",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 3.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 199,
+    "title": "Workshop: Threat Modeling",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 4.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 200,
+    "title": "Practical Guide to Design Systems",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 60,
+    "rating": 4.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 201,
+    "title": "Introduction to SQL Fundamentals",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 3.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 202,
+    "title": "Complete Course in JavaScript Essentials",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 210,
+    "rating": 3.1,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 203,
+    "title": "Practical Guide to Privacy Engineering",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 30,
+    "rating": 5.0,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 204,
+    "title": "Introduction to Prototyping",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 4.4,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 205,
+    "title": "Workshop: SQL Fundamentals",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 210,
+    "rating": 3.3,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 206,
+    "title": "Workshop: Python Programming",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 5.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 207,
+    "title": "Essentials of Privacy Engineering",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 4.6,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 208,
+    "title": "Deep Dive into Accessibility",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 3.8,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 209,
+    "title": "Introduction to Data Cleaning",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 210,
+    "title": "Deep Dive into Database Systems",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 40,
+    "rating": 3.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 211,
+    "title": "Introduction to Secure Coding",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 130,
+    "rating": 4.6,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 212,
+    "title": "Workshop: UX Research",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 3.2,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 213,
+    "title": "Practical Guide to Data Cleaning",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.2,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 214,
+    "title": "Complete Course in JavaScript Essentials",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 60,
+    "rating": 4.3,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 215,
+    "title": "Workshop: Secure Coding",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 4.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 216,
+    "title": "Practical Guide to Accessibility",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 210,
+    "rating": 4.9,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 217,
+    "title": "Foundations of Data Visualization",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 240,
+    "rating": 4.5,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 218,
+    "title": "Hands-on Database Systems",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 60,
+    "rating": 4.1,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 219,
+    "title": "Practical Guide to Secure Coding",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 40,
+    "rating": 4.5,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 220,
+    "title": "Deep Dive into Prototyping",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 221,
+    "title": "Introduction to Dashboard Design",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.3,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 222,
+    "title": "Introduction to API Design",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.9,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 223,
+    "title": "Deep Dive into Incident Response",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 3.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 224,
+    "title": "Essentials of Interface Design",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 3.6,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 225,
+    "title": "Foundations of Machine Learning Basics",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 226,
+    "title": "Complete Course in API Design",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 4.9,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 227,
+    "title": "Workshop: Privacy Engineering",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 3.0,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 228,
+    "title": "Essentials of Design Systems",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 4.4,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 229,
+    "title": "Essentials of Dashboard Design",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 3.9,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 230,
+    "title": "Essentials of JavaScript Essentials",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 3.8,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 231,
+    "title": "Essentials of Privacy Engineering",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 4.9,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 232,
+    "title": "Workshop: Typography",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 3.9,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 233,
+    "title": "Essentials of Business Intelligence",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 3.2,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 234,
+    "title": "Workshop: Database Systems",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 3.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 235,
+    "title": "Workshop: Authentication",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 4.6,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 236,
+    "title": "Foundations of Interface Design",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 80,
+    "rating": 3.3,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 237,
+    "title": "Deep Dive into SQL Fundamentals",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 4.5,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 238,
+    "title": "Workshop: Git Workflows",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 3.6,
+    "description": "Learn key principles and apply them to realistic scenarios."
+  },
+  {
+    "id": 239,
+    "title": "Deep Dive into Secure Coding",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 3.6,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 240,
+    "title": "Introduction to UX Research",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 3.9,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 241,
+    "title": "Foundations of Data Visualization",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 4.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 242,
+    "title": "Practical Guide to Web Development",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.8,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 243,
+    "title": "Deep Dive into Authentication",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 3.3,
+    "description": "Build practical skills with clear examples and guided exercises."
+  },
+  {
+    "id": 244,
+    "title": "Workshop: Typography",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 240,
+    "rating": 3.2,
+    "description": "Explore core concepts, common workflows and real-world applications."
+  },
+  {
+    "id": 245,
+    "title": "Deep Dive into Data Visualization",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 4.0,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 246,
+    "title": "Workshop: Backend Engineering",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 3.8,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 247,
+    "title": "Workshop: Network Security",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 3.7,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 248,
+    "title": "Foundations of Prototyping",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 4.9,
+    "description": "Develop confidence through structured explanations and hands-on practice."
+  },
+  {
+    "id": 249,
+    "title": "Introduction to Statistics",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 4.3,
+    "description": "A focused learning resource with practice tasks and useful techniques."
+  },
+  {
+    "id": 250,
+    "title": "Essentials of Python Programming",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 60,
+    "rating": 4.2,
+    "description": "Build practical skills with clear examples and guided exercises."
+  }
+]
